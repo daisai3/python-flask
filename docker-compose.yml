@@ -1,0 +1,39 @@
+version: '2.4'
+
+services:
+  cassandra:
+    container_name: 'cja-cassandra-${USER}'
+    image: 'cassandra:3.11.5'
+    volumes:
+      - ./app/test_config/test-db:/app/test_config/test-db
+    logging:
+      driver: none
+
+  backend:
+    container_name: 'cja-backend-${USER}'
+    image: 'cja-back:dev'
+    build:
+      context: '../cja-api-backend'
+      dockerfile: Dockerfile.production
+    environment:
+      - AUTH_SECRET=28efc14a-1c9b-45e8-bb8b-2ad7fe6feb2c
+      - CQLENG_ALLOW_SCHEMA_MANAGEMENT=TRUE
+      - DB_URI=cassandra
+      - DB_USER=cassandra
+      - DB_PASSWORD=cassandra
+      - DB_PORT=9042
+    ports:
+      - 5000:5000
+
+  frontend:
+    container_name: 'cja-frontend-${USER}'
+    image: 'cja-front:dev'
+    build: '../cja-dashboard/'
+    ports:
+      - 3000:3000
+    depends_on:
+      - backend
+
+networks:
+  default:
+    name: 'cja-net-${USER}'

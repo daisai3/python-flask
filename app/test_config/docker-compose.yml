@@ -1,0 +1,32 @@
+version: '2.3'
+
+services:
+  testdb:
+    container_name: 'tessandra'
+    image: 'tessandra'
+    build: '../test_config/'
+    healthcheck:
+      test: ['CMD', 'nodetool', 'netstats']
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  backend:
+    container_name: 'cja-backend-testing'
+    image: 'cja-back:dev'
+    build: '../../../cja-api-backend/'
+    environment:
+      - DB_URI=tessandra
+      - DB_PORT=9042
+      - TESTING=1
+      - CQLENG_ALLOW_SCHEMA_MANAGEMENT=TRUE
+      - AUTH_SECRET=TESTING_SECRET_KEY
+    ports:
+      - 5000:5000
+    depends_on:
+      testdb:
+        condition: service_healthy
+
+networks:
+  default:
+    name: 'cja-net-${USER}-api-testing'

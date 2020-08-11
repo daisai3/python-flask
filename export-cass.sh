@@ -1,0 +1,12 @@
+export CQLSH_NO_BUNDLED=true
+cqlsh 127.0.0.1 -e "COPY cja_metadata.calibration (center_name, camera_id, calibration_info) TO './app/test_config/test-db/calibration.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_metadata.language (iso_string, name) TO './app/test_config/test-db/language.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_metadata.working_hours (type) TO './app/test_config/test-db/working_hours.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_metadata.user_status (status) TO './app/test_config/test-db/user_status.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_metadata.areas (center_name, area_type, area_name, polygon, highlight_on_customers) TO './app/test_config/test-db/areas.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_data.user (email, center_name, designated_zone_name, gender, hashed_pass, is_active, job_title, language, name, phone, photo, role, salt, working_hours) TO './app/test_config/test-db/user.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_data.users_by_location (center_name, email, designated_zone_name, is_active, job_title, language, name, photo, role, working_hours) TO './app/test_config/test-db/user_by_location.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_data.timeline (center_name, global_identity, epoch_second, age, area, area_type, ethnicity, face_crop, gender, happiness, mask, position_x, position_y) TO './app/test_config/test-db/timeline.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_data.customer_tracker (center_name, global_identity, age_range, live_dwell_time, area, area_type, epoch_second, ethnicity, gender, happiness_index, mask, position_x, position_y) TO './app/test_config/test-db/customer_tracker.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_data.center (name, distance_points, floor_plan, floor_plan_px_per_meter, lat, lng, location, manager_email, manager_name, scale_meters) TO './app/test_config/test-db/centers.dat';"
+cqlsh 127.0.0.1 -e "COPY cja_data.dwell_time (center_name, global_identity, area,  epoch_second, dwell_time) TO './app/test_config/test-db/dwell_time.dat';"

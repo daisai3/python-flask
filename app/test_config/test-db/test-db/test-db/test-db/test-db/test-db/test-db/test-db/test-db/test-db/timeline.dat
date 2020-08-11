@@ -1,0 +1,88 @@
+Headquarters,C-0011,1586241500,19-49,Main Entrance,Entry,Local,,Male,50,None,29,32
+Headquarters,C-0013,1586241530,50+,Secondary Entrance,Entry,Non,,Male,,Mask,44,36
+Headquarters,C-0011,1586241560,19-49,Happiness Lounge,Waiting,Local,,Male,,None,23,34
+Headquarters,C-0012,1586241560,0-18,Main Entrance,Entry,Local,,Female,72,,4,34
+Headquarters,C-0013,1586241590,50+,Secondary Entrance,Entry,Non,,Male,,Mask,45,43
+Headquarters,C-0014,1586241590,50+,Main Entrance,Entry,Non,,Male,,None,37,49
+Headquarters,C-0011,1586241620,19-49,Devices and Tablets,Interaction,Local,,Male,,None,27,37
+Headquarters,C-0012,1586241620,0-18,Main Entrance,Entry,Local,,Female,82,,8,37
+Headquarters,C-0013,1586241650,50+,BEAM,Support,Non,,Male,,Mask,46,47
+Headquarters,C-0014,1586241650,50+,Main Entrance,Entry,Non,,Male,,None,28,44
+Headquarters,C-0011,1586241680,19-49,Devices and Tablets,Interaction,Local,,Male,,None,35,35
+Headquarters,C-0012,1586241680,0-18,Happiness Lounge,Waiting,Local,,Female,85,,16,35
+Headquarters,C-0013,1586241710,50+,BEAM,Support,Non,,Male,,Mask,31,42
+Headquarters,C-0014,1586241710,50+,Devices and Tablets,Interaction,Non,,Male,,None,23,46
+Headquarters,C-0011,1586241740,19-49,Devices and Tablets,Interaction,Local,,Male,,None,42,32
+Headquarters,C-0012,1586241740,0-18,CDM & Payment,Interaction,Local,,Female,90,,12,39
+Headquarters,C-0013,1586241770,50+,Secondary Entrance,Exit,Non,,Male,,Mask,32,43
+Headquarters,C-0014,1586241770,50+,Main Entrance,Exit,Non,,Male,79,None,15,45
+Headquarters,C-0011,1586241800,19-49,Main Entrance,Exit,Local,,Male,,None,47,33
+Headquarters,C-0002,1590969600,0-18,Main Entrance,Entry,Local,,Female,72,Mask,3,8
+Headquarters,C-0004,1590969600,50+,Chatting Channels,Support,Non,,Female,90,Mask,32,21
+Headquarters,C-0002,1591056000,0-18,Main Entrance,Entry,Local,,Female,71,Mask,8,2
+Headquarters,C-0004,1591056000,50+,Queue to pay by cash,Waiting,Non,,Male,92,Mask,31,24
+Headquarters,C-0002,1591106460,0-18,Main Entrance,Entry,Local,,Female,72,Mask,3,8
+Headquarters,C-0002,1591106720,0-18,Main Entrance,Entry,Local,,Female,71,Mask,8,2
+Headquarters,C-0002,1591107080,0-18,Happiness Lounge,Waiting,Local,,Female,75,Mask,9,8
+Headquarters,C-0002,1591107340,0-18,CDM & Payment,Waiting,Local,,Female,83,Mask,39,6
+Headquarters,C-0001,1591107600,19-49,Secondary Entrance,Entry,Local,,Male,63,None,38,9
+Headquarters,C-0001,1591107860,19-49,Devices and Tablets,Interaction,Local,,Male,68,None,32,6
+Headquarters,C-0001,1591108020,19-49,Queue to pay by cash,Waiting,Local,,Male,66,None,37,11
+Headquarters,C-0001,1591108280,19-49,Queue to pay by cash,Waiting,Local,,Male,70,None,31,12
+Headquarters,C-0001,1591108440,19-49,CDM & Payment,Interaction,Local,,Male,75,None,37,11
+Headquarters,C-0001,1591108600,19-49,Secondary Entrance,Exit,Local,,Male,80,None,37,17
+Headquarters,C-0003,1591108830,50+,Main Entrance,Entry,Non,,Male,89,Mask,32,18
+Headquarters,C-0003,1591109090,50+,Queue to pay by cash,Waiting,Non,,Male,92,Mask,46,14
+Headquarters,C-0003,1591109250,50+,Queue to pay by cash,Waiting,Non,,Male,95,Mask,27,17
+Headquarters,C-0003,1591109410,50+,CDM & Payment,Interaction,Non,,Male,97,Mask,2,26
+Headquarters,C-0003,1591109670,50+,Main Entrance,Exit,Non,,Male,97,Mask,5,29
+Headquarters,C-0004,1591109890,50+,Main Entrance,Entry,Non,,Female,79,Mask,17,23
+Headquarters,C-0004,1591110050,50+,BEAM,Support,Non,,Female,80,Mask,14,25
+Headquarters,C-0004,1591110210,50+,BEAM,Support,Non,,Female,85,Mask,27,26
+Headquarters,C-0004,1591110470,50+,Chatting Channels,Support,Non,,Female,90,Mask,32,21
+Headquarters,C-0004,1591110590,50+,Queue to pay by cash,Waiting,Non,,Male,92,Mask,31,24
+Headquarters,C-0004,1591110650,50+,Queue to pay by cash,Waiting,Non,,Male,95,Mask,37,27
+Headquarters,C-0004,1591110710,50+,CDM & Payment,Interaction,Non,,Male,97,Mask,44,23
+Headquarters,C-0004,1591110870,50+,Main Entrance,Exit,Non,,Male,97,Mask,47,26
+Headquarters,C-0002,1591142400,0-18,Happiness Lounge,Waiting,Local,,Female,75,Mask,9,8
+Headquarters,C-0004,1591142400,50+,Queue to pay by cash,Waiting,Non,,Male,95,Mask,37,27
+Headquarters,C-0002,1591228800,0-18,BEAM,Support,Local,,Female,70,Mask,15,5
+Headquarters,C-0004,1591228800,50+,CDM & Payment,Interaction,Non,,Male,97,Mask,44,23
+Headquarters,C-0002,1591315200,0-18,BEAM,Support,Local,,Female,67,Mask,18,3
+Headquarters,C-0004,1591315200,50+,Main Entrance,Exit,Non,,Male,97,Mask,47,26
+Headquarters,C-0002,1591401600,0-18,CDM & Payment,Interaction,Local,,Female,73,Mask,28,3
+Headquarters,C-0012,1591401600,0-18,Main Entrance,Entry,Local,,Female,72,,4,34
+Headquarters,C-0002,1591488000,0-18,CDM & Payment,Interaction,Local,,Female,79,Mask,24,6
+Headquarters,C-0012,1591488000,0-18,Main Entrance,Entry,Local,,Female,82,,8,37
+Headquarters,C-0002,1591574400,0-18,Main Entrance,Exit,Local,,Female,83,Mask,39,1
+Headquarters,C-0012,1591574400,0-18,Happiness Lounge,Waiting,Local,,Female,85,,16,35
+Headquarters,C-0001,1591660800,19-49,Secondary Entrance,Entry,Local,,Male,63,None,38,9
+Headquarters,C-0012,1591660800,0-18,CDM & Payment,Interaction,Local,,Female,90,,12,39
+Headquarters,C-0001,1591747200,19-49,Devices and Tablets,Interaction,Local,,Male,68,None,32,6
+Headquarters,C-0011,1591747200,19-49,Main Entrance,Entry,Local,,Male,50,None,29,32
+Headquarters,C-0001,1591833600,19-49,Queue to pay by cash,Waiting,Local,,Male,66,None,37,11
+Headquarters,C-0011,1591833600,19-49,Happiness Lounge,Waiting,Local,,Male,,None,23,34
+Headquarters,C-0001,1591920000,19-49,Queue to pay by cash,Waiting,Local,,Male,70,None,31,12
+Headquarters,C-0011,1591920000,19-49,Devices and Tablets,Interaction,Local,,Male,,None,27,37
+Headquarters,C-0001,1592006400,19-49,CDM & Payment,Interaction,Local,,Male,75,None,37,11
+Headquarters,C-0011,1592006400,19-49,Devices and Tablets,Interaction,Local,,Male,,None,35,35
+Headquarters,C-0001,1592092800,19-49,Secondary Entrance,Exit,Local,,Male,80,None,37,17
+Headquarters,C-0011,1592092800,19-49,Devices and Tablets,Interaction,Local,,Male,,None,42,32
+Headquarters,C-0003,1592179200,50+,Main Entrance,Entry,Non,,Male,89,Mask,32,18
+Headquarters,C-0011,1592179200,19-49,Main Entrance,Exit,Local,,Male,,None,47,33
+Headquarters,C-0003,1593043200,50+,Queue to pay by cash,Waiting,Non,,Male,92,Mask,46,14
+Headquarters,C-0013,1593043200,50+,Secondary Entrance,Entry,Non,,Male,,Mask,44,36
+Headquarters,C-0003,1593129600,50+,Queue to pay by cash,Waiting,Non,,Male,95,Mask,27,17
+Headquarters,C-0013,1593129600,50+,Secondary Entrance,Entry,Non,,Male,,Mask,45,43
+Headquarters,C-0003,1593216000,50+,CDM & Payment,Interaction,Non,,Male,97,Mask,2,26
+Headquarters,C-0013,1593216000,50+,BEAM,Support,Non,,Male,,Mask,46,47
+Headquarters,C-0003,1593302400,50+,Main Entrance,Exit,Non,,Male,97,Mask,5,29
+Headquarters,C-0013,1593302400,50+,BEAM,Support,Non,,Male,,Mask,31,42
+Headquarters,C-0004,1593388800,50+,Main Entrance,Entry,Non,,Female,79,Mask,17,23
+Headquarters,C-0013,1593388800,50+,Secondary Entrance,Exit,Non,,Male,,Mask,32,43
+Headquarters,C-0004,1593475200,50+,BEAM,Support,Non,,Female,80,Mask,14,25
+Headquarters,C-0014,1593475200,50+,Main Entrance,Entry,Non,,Male,,None,37,49
+Headquarters,C-0004,1593583619,50+,BEAM,Support,Non,,Female,85,Mask,27,26
+Headquarters,C-0014,1593583619,50+,Main Entrance,Entry,Non,,Male,,None,28,44
+Headquarters,C-0014,1593583679,50+,Devices and Tablets,Interaction,Non,,Male,,None,23,46
+Headquarters,C-0014,1593584209,50+,Main Entrance,Exit,Non,,Male,79,None,15,45

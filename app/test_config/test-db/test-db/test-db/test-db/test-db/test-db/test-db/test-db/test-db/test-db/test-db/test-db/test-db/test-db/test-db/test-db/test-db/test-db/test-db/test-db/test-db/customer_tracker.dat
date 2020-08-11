@@ -1,0 +1,6 @@
+Headquarters,C-0001,19-49,Queue to pay by Cash,Waiting,1586241800,Local,Male,68,Mask,2190,2765
+Headquarters,C-0002,0-18,Waiting Area,Waiting,1586241800,Local,Female,65,Mask,1190,1765
+Headquarters,C-0003,19-49,Pay by Device,Interaction,1586241800,Local,Female,88,Mask,3190,3765
+Headquarters,C-0004,19-49,Waiting Area,Waiting,1586241800,Local,Male,83,None,1190,3765
+Headquarters,C-0005,19-49,Pay by Device,Interaction,1586241800,Nonlocal,Male,81,None,3190,2765
+Headquarters,C-0006,19-49,Waiting Area,Waiting,1586241800,Nonlocal,Male,91,,3190,1765
